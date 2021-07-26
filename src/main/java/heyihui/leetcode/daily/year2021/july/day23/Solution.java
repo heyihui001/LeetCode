@@ -1,6 +1,7 @@
 package heyihui.leetcode.daily.year2021.july.day23;
 
 public class Solution {
+
     /**
      * 1893. 检查是否区域内所有整数都被覆盖
      */
